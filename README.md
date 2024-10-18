@@ -11,18 +11,19 @@
    - Встановіть npm пакет `eslint` командою `npm init @eslint/config@latest` та в файлі налаштувань `eslint.config.js` вкажіть наступний вміст:
 
      ```javascript
-     import globals from "globals";
-     import pluginJs from "@eslint/js";
+     import globals from 'globals';
+     import pluginJs from '@eslint/js';
 
      export default [
        pluginJs.configs.recommended,
        {
-         files: ["src/**/*.js"],
+         files: ['src/**/*.js'],
          languageOptions: { globals: globals.node },
          rules: {
-           semi: "error",
-           "no-unused-vars": "off",
-           "no-undef": "error",
+           semi: 'error',
+           'no-unused-vars': 'off',
+           'no-undef': 'error',
+           'no-console': 'warn',
          },
        },
      ];
@@ -50,7 +51,7 @@
 9. В файл `createFakeProduct.js` додайте наступний вміст:
 
    ```javascript
-   import { faker } from "@faker-js/faker";
+   import { faker } from '@faker-js/faker';
 
    export const createFakeProduct = () => ({
      name: faker.commerce.productName(),
