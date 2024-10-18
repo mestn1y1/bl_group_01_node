@@ -5,7 +5,10 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "generate":  "node src/scripts/generateProducts.js",
+    "add-one": "node src/scripts/addOneProduct.js",
+    "get-all": "node src/scripts/getAllProducts.js"
   },
   "keywords": [],
   "author": "Serhii Tyron <mestn1y@hotmail.com>",

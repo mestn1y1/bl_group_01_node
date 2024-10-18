@@ -1,1 +1,80 @@
-[]
+[
+  {
+    "name": "Ergonomic Soft Tuna",
+    "price": "548.75",
+    "category": "Industrial",
+    "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design"
+  },
+  {
+    "name": "Intelligent Fresh Chicken",
+    "price": "356.10",
+    "category": "Grocery",
+    "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J"
+  },
+  {
+    "name": "Licensed Soft Pizza",
+    "price": "718.70",
+    "category": "Garden",
+    "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit"
+  },
+  {
+    "name": "Handmade Wooden Ball",
+    "price": "889.59",
+    "category": "Toys",
+    "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles"
+  },
+  {
+    "name": "Unbranded Frozen Shirt",
+    "price": "205.86",
+    "category": "Grocery",
+    "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016"
+  },
+  {
+    "name": "Ergonomic Wooden Tuna",
+    "price": "557.29",
+    "category": "Baby",
+    "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles"
+  },
+  {
+    "name": "Handcrafted Soft Towels",
+    "price": "457.15",
+    "category": "Beauty",
+    "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals"
+  },
+  {
+    "name": "Sleek Granite Ball",
+    "price": "25.30",
+    "category": "Beauty",
+    "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive"
+  },
+  {
+    "name": "Sleek Granite Pants",
+    "price": "601.06",
+    "category": "Garden",
+    "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality"
+  },
+  {
+    "name": "Practical Wooden Car",
+    "price": "34.89",
+    "category": "Books",
+    "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality"
+  },
+  {
+    "name": "Small Granite Gloves",
+    "price": "855.24",
+    "category": "Sports",
+    "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles"
+  },
+  {
+    "name": "Bespoke Frozen Tuna",
+    "price": "234.70",
+    "category": "Games",
+    "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design"
+  },
+  {
+    "name": "Ergonomic Plastic Ball",
+    "price": "133.60",
+    "category": "Electronics",
+    "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive"
+  }
+]
